@@ -1,4 +1,4 @@
-# Project Name
+# Erau Exchange
 
 ## Description
 A full-stack application with a Python backend and a Java frontend.
@@ -50,11 +50,9 @@ java -jar target/app.jar
 - Interact with the app.
 
 ## Contributing
-1. Fork the repository.
+1. Clone the repository.
 2. Create a new branch (`feature-branch`).
 3. Commit your changes.
 4. Push to your branch and open a Pull Request.
 
-## License
-This project is licensed under the MIT License.
 
