@@ -10,23 +10,20 @@ A full-stack application with a Python backend and a Java frontend.
 - CI/CD setup for automated testing and deployment.
 
 ## Tech Stack
-- **Backend**: Python (Flask/FastAPI/Django)
-- **Frontend**: Java (Swing/JavaFX/Spring Boot)
+- **Backend**: Python (/Django)
+- **Frontend**: JavaScript (/React)
 - **Database**: (PostgreSQL/MySQL/MongoDB)
-- **Build Tools**: Maven/Gradle
 
 ## Installation
 ### Prerequisites
 Ensure you have the following installed:
-- Python 3.x
-- Java 8+
-- Pip
-- Maven/Gradle
+- Python 
+- JavaScript
 - Git
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/isa363/EagleExchange.git
 cd your-repo
 ```
 
@@ -51,7 +48,7 @@ java -jar target/app.jar
 
 ## Contributing
 1. Clone the repository.
-2. Create a new branch (`feature-branch`).
+2. Create a new branch (`FirstName_ReqName_ReqId`).
 3. Commit your changes.
 4. Push to your branch and open a Pull Request.
 
